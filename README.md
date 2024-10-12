@@ -1,0 +1,1 @@
+Em JavaScript, o ambiente de execução principal (como o navegador ou Node.js) é single-threaded, o que significa que ele não possui suporte nativo para multithreading da mesma forma que linguagens como Java ou C#. No entanto, pode-se usar Web Workers no navegador ou Worker Threads no Node.js para simular threads e realizar tarefas paralelas.
